@@ -1,0 +1,95 @@
+/*your CSS code here*/
+body {
+    font-family: 'gill sans', calibri, 'Helvetica Neue', Arial;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+}
+
+#bio a {
+    color: orange;
+    font-family: cursive;
+}
+.heading {
+    font-size: 50px;
+    color: yellow;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.intro {
+    background-color: #03bafc;
+    color: white;
+    padding-left: 16px;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.25em;
+}
+
+.prof{
+    font-size: 1.25em;
+    font-weight: lighter;
+    color: red;
+}
+.contactinfo{
+    font-size: 0.93em;
+    padding-left: 16px;
+    padding-top: 0.375em;
+    padding-bottom: 0.375em;
+    background-color: blueviolet;
+}
+.subheading{
+    font-size: 1.25em;
+    font-weight: bolder;
+    color: #03bafc;
+    text-transform: uppercase;
+    padding-left: 16px;
+}
+.social {
+    background-color: #fc3503;
+}
+.icon {
+    color: #03bafc;
+}
+.date {
+    font-size: 1em;
+    color: #03bafc;
+    font-weight: bold;
+}
+.jobtitle {
+    font-weight: bold;
+}
+.eduinfo {
+    font-weight: bold;
+}
+.edutitle {
+    font-weight: bold;
+}
+.fab.fa-facebook-square {
+    color: plum;
+}
+.fab.fa-twitter-square {
+    color: plum;
+}
+.fab.fa-linkedin {
+    color: plum;
+}
+.fab.fa-github {
+    color: plum;
+}
+.skills ul li {
+    display: flex;
+    justify-content: space-between;    
+    margin-bottom: 10px;
+    align-items: center;
+    margin-left: -15px;
+}
+.skills ul li .skill_prog {
+    width: 60%;
+    height: 5px;
+    position: relative;
+}
+.skills ul li .skill_prog span {
+    position: absolute;
+    height: 100%;
+    background: #2F5A78;
+    padding-right: 50px;
+}
