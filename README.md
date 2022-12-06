@@ -37,3 +37,36 @@ https://man1328.github.io/Resume-Website/
 </p>
 </details>
 
+
+# Transitions
+        Transitoning from a career in the auto industry 
+        and seeking a full-time role in the field of data analytics
+        
+# PAR Statement
+        Problem
+        Action
+        Result
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Example!
+
+```
+   ~~Was responsible for writing two blogs a month~~
+   INSTEAD:
+   Earned little-known website over 2,000 organic clicks through
+   strategic blogging
+```
+
+</p>
+</details>        
+
+
+# Skills
+* Spreadsheets
+* Tableau
+* Pivot tables
+# Programming languages
+* SQL
+* R
+
