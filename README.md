@@ -8,6 +8,12 @@ https://man1328.github.io/Resume-Website/
 
 > Entry-level data analytics professional; recently completed the Google Data Analytics Professional Certificate
 
+### Google / Data Analytics Professional Certificate
+        Completed extensive six month job-ready Google Career Certificate training.
+        Demonstrated hands-on experience with data cleaning, data visualization, project 
+        management, interpreting and communicating data analytics findings.  Confidence in
+        transforming complex data into actionable and clear insights.  Fluency in computer 
+        programming languages and a solid understanding of databases.
 
 
 ### Writing Examples for Ethan
@@ -30,3 +36,4 @@ https://man1328.github.io/Resume-Website/
 
 </p>
 </details>
+
