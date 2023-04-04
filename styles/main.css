@@ -96,6 +96,14 @@ li{
     flex-wrap: wrap;
 }
 
+#personal-links{
+	padding-top: 1em;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 1em;
+    flex-wrap: wrap;
+}
+
 #socials--list a{
     font-weight: 300;
     color: var(--secondaryTextColor);
