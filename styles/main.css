@@ -87,6 +87,7 @@ li{
 
 #email{
     color: var(--mainTextColor);
+	padding-bottom: 1em;
 }
 
 #socials--list{
